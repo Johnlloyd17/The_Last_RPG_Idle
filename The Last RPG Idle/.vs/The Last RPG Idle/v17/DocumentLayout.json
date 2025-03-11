@@ -1,0 +1,350 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\assets\\scripts\\ui\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|c:\\users\\john lloyd t. caban\\gamedev projects\\the last rpg idle\\assets\\scripts\\enemy\\skeleton\\enemy_skeleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\skeleton\\enemy_skeleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\assets\\scripts\\player\\stats \u0026 elemental\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\stats \u0026 elemental\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\assets\\scripts\\player\\stats \u0026 elemental\\characterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\stats \u0026 elemental\\characterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\assets\\scripts\\player\\stats \u0026 elemental\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\stats \u0026 elemental\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\assets\\scripts\\player\\thunder skill\\shockstrikecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\thunder skill\\shockstrikecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\assets\\scripts\\inventory\\effect\\itemeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\effect\\itemeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\assets\\scripts\\entityfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entityfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\assets\\scripts\\player\\player manager and skill manager\\skills script\\dodgeskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player manager and skill manager\\skills script\\dodgeskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\assets\\scripts\\inventory\\item\\itemdata_equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\item\\itemdata_equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\assets\\scripts\\ui\\ui_statslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui_statslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\assets\\scripts\\player\\player manager and skill manager\\skillmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player manager and skill manager\\skillmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\assets\\scripts\\inventory\\inventory scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\inventory scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\assets\\scripts\\inventory\\effect\\thunderstrikecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\effect\\thunderstrikecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\assets\\scripts\\inventory\\effect\\thunderstrikeeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\effect\\thunderstrikeeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\assets\\scripts\\ui\\ui_craftlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui_craftlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\assets\\scripts\\ui\\craft\\ui_craftwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\craft\\ui_craftwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\assets\\scripts\\inventory\\craft\\ui_craftslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\craft\\ui_craftslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\assets\\scripts\\inventory\\item slot\\ui_itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE374C2-61D1-3574-42A1-88338629F28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\item slot\\ui_itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy_Skeleton.cs",
+              "DocumentMoniker": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Enemy\\Skeleton\\Enemy_Skeleton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Skeleton\\Enemy_Skeleton.cs",
+              "ToolTip": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Enemy\\Skeleton\\Enemy_Skeleton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Skeleton\\Enemy_Skeleton.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:46:37.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemEffect.cs",
+              "DocumentMoniker": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Inventory\\Effect\\ItemEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\Effect\\ItemEffect.cs",
+              "ToolTip": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Inventory\\Effect\\ItemEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\Effect\\ItemEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:51:54.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntityFx.cs",
+              "DocumentMoniker": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\EntityFx.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EntityFx.cs",
+              "ToolTip": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\EntityFx.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EntityFx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:34:06.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemData_Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Inventory\\Item\\ItemData_Equipment.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\Item\\ItemData_Equipment.cs",
+              "ToolTip": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Inventory\\Item\\ItemData_Equipment.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\Item\\ItemData_Equipment.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAA3wHkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:51:30.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\UI\\UI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI.cs",
+              "ToolTip": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\UI\\UI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:11:00.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DodgeSkill.cs",
+              "DocumentMoniker": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Player\\Player Manager and Skill Manager\\Skills Script\\DodgeSkill.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player Manager and Skill Manager\\Skills Script\\DodgeSkill.cs",
+              "ToolTip": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Player\\Player Manager and Skill Manager\\Skills Script\\DodgeSkill.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player Manager and Skill Manager\\Skills Script\\DodgeSkill.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwDgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:50:46.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Player\\Stats \u0026 Elemental\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Stats \u0026 Elemental\\PlayerStats.cs",
+              "ToolTip": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Player\\Stats \u0026 Elemental\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Stats \u0026 Elemental\\PlayerStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:31:03.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CharacterStats.cs",
+              "DocumentMoniker": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Player\\Stats \u0026 Elemental\\CharacterStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Stats \u0026 Elemental\\CharacterStats.cs",
+              "ToolTip": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Player\\Stats \u0026 Elemental\\CharacterStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Stats \u0026 Elemental\\CharacterStats.cs",
+              "ViewState": "AgIAADgBAAAAAAAAAAAAwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:10:59.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UI_StatSlot.cs",
+              "DocumentMoniker": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\UI\\UI_StatSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI_StatSlot.cs",
+              "ToolTip": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\UI\\UI_StatSlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI_StatSlot.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswDsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:51:36.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyStats.cs",
+              "DocumentMoniker": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Player\\Stats \u0026 Elemental\\EnemyStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Stats \u0026 Elemental\\EnemyStats.cs",
+              "ToolTip": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Player\\Stats \u0026 Elemental\\EnemyStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Stats \u0026 Elemental\\EnemyStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:10:55.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShockStrikeController.cs",
+              "DocumentMoniker": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Player\\Thunder Skill\\ShockStrikeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Thunder Skill\\ShockStrikeController.cs",
+              "ToolTip": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Player\\Thunder Skill\\ShockStrikeController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Thunder Skill\\ShockStrikeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:07:19.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Inventory\\Inventory Scripts\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\Inventory Scripts\\Inventory.cs",
+              "ToolTip": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Inventory\\Inventory Scripts\\Inventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\Inventory Scripts\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:01:50.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ThunderStrikeController.cs",
+              "DocumentMoniker": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Inventory\\Effect\\ThunderStrikeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\Effect\\ThunderStrikeController.cs",
+              "ToolTip": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Inventory\\Effect\\ThunderStrikeController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\Effect\\ThunderStrikeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:44:14.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThunderStrikeEffect.cs",
+              "DocumentMoniker": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Inventory\\Effect\\ThunderStrikeEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\Effect\\ThunderStrikeEffect.cs",
+              "ToolTip": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Inventory\\Effect\\ThunderStrikeEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\Effect\\ThunderStrikeEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:35:19.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAxwDoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:47:46.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SkillManager.cs",
+              "DocumentMoniker": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Player\\Player Manager and Skill Manager\\SkillManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player Manager and Skill Manager\\SkillManager.cs",
+              "ToolTip": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Player\\Player Manager and Skill Manager\\SkillManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player Manager and Skill Manager\\SkillManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:24:26.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UI_CraftSlot.cs",
+              "DocumentMoniker": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Inventory\\Craft\\UI_CraftSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\Craft\\UI_CraftSlot.cs",
+              "ToolTip": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Inventory\\Craft\\UI_CraftSlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\Craft\\UI_CraftSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:27:36.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UI_CraftWindow.cs",
+              "DocumentMoniker": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\UI\\Craft\\UI_CraftWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Craft\\UI_CraftWindow.cs",
+              "ToolTip": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\UI\\Craft\\UI_CraftWindow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Craft\\UI_CraftWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:26:55.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UI_ItemSlot.cs",
+              "DocumentMoniker": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Inventory\\Item Slot\\UI_ItemSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\Item Slot\\UI_ItemSlot.cs",
+              "ToolTip": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\Inventory\\Item Slot\\UI_ItemSlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\Item Slot\\UI_ItemSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:25:25.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UI_CraftList.cs",
+              "DocumentMoniker": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\UI\\UI_CraftList.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI_CraftList.cs",
+              "ToolTip": "C:\\Users\\John Lloyd T. Caban\\GameDev Projects\\The Last RPG Idle\\Assets\\Scripts\\UI\\UI_CraftList.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI_CraftList.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwF4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:18:12.935Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

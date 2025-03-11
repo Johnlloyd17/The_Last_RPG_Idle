@@ -1,0 +1,4 @@
+repository "The Last RPG Idle@unity_979DB6ACB932B727D66F@cloud"
+  path "/"
+    br "/main"
+    co "/main"
